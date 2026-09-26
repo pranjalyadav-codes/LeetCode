@@ -60,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0415-add-strings) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
