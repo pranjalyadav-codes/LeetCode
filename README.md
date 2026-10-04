@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0415-add-strings](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1512-number-of-good-pairs](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
