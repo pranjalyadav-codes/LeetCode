@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0264-ugly-number-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1512-number-of-good-pairs) |
