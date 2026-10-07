@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0383-ransom-note](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
