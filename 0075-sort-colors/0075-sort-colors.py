@@ -16,3 +16,4 @@ class Solution:
             else:
                 nums[i], nums[right] = nums[right], nums[i]
                 right -= 1
+                
