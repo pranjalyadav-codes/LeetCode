@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0229-majority-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0383-ransom-note](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0567-permutation-in-string) |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0229-majority-element-ii) |
 ## Euclidean Algorithm
 |  |
 | ------- |
