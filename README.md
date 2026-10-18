@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1929-concatenation-of-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranjalyadav-codes/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pranjalyadav-codes/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
