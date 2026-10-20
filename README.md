@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0567-permutation-in-string) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
