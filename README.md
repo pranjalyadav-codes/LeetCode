@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0912-sort-an-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0392-is-subsequence) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0383-ransom-note](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0560-subarray-sum-equals-k) |
