@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1470-shuffle-the-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranjalyadav-codes/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pranjalyadav-codes/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Enumeration
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
 | ------- |
