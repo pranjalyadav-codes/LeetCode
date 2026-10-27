@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0704-binary-search) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0415-add-strings](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0415-add-strings) |
+| [0523-continuous-subarray-sum](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1512-number-of-good-pairs](https://github.com/pranjalyadav-codes/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/pranjalyadav-codes/LeetCode/tree/master/2235-add-two-integers) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0724-find-pivot-index) |
@@ -285,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/pranjalyadav-codes/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
