@@ -1,10 +1,14 @@
 class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
-        count = {}
+    def majorityElement(self, nums: list[int]) -> int:
+        freq = {}
+        for i in range(len(nums)):
+            freq[nums[i]] = freq.get(nums[i], 0) + 1
+        
+        maximum  = 0
+        result = 0
+        for key, value in freq.items():
+            if value > maximum:
+                maximum = value
+                result = key 
 
-        for num in nums:
-            count[num] = count.get(num, 0) + 1
-
-        for num in count:
-            if count[num] > len(nums) // 2:
-                return num
+        return result
